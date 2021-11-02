@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKDG9yRLp6N5/WEo7K8Jxe1J5yv4x98aLOnceFzZbI2EhfvB1Gi7+gXkPBFO+2oCFbwze25GfVBr4EaNK/xWHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AUGCLA4e3627bf62b\\Documents\\GitHub\\POCAPI\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AUGCLA4e3627bf62b\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AUGCLA4e3627bf62b\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AUGCLA4e3627bf62b\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\AUGCLA4e3627bf62b\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\AUGCLA4e3627bf62b\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\AUGCLA4e3627bf62b\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
